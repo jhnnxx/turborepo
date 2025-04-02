@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/docs/:path*", "destination": "/docs/:path*", "permanant": false }
+    { "source": "/docs/:path*", "destination": "/docs/:path*", "permanent": false }
   ]
 }
