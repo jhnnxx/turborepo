@@ -1,5 +1,5 @@
 {
-  "rewrites": [
+  "redirects": [
     { "source": "/docs/:path*", "destination": "/apps/docs/:path*" }
   ]
 }
