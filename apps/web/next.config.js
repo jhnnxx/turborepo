@@ -4,7 +4,7 @@ const nextConfig = {
 		return [
 			{
 				source: "/docs/:path*",
-				destination: "http://localhost:3001/:path*",
+				destination: "https://turborepo-docs-ten.vercel.app/:path*",
 				permanent: false,
 			},
 		];
