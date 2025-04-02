@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/docs/:path*", "destination": "/apps/docs/:path*" }
+    { "source": "/docs/:path*", "destination": "/docs/:path*" }
   ]
 }
