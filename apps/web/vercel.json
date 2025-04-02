@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/docs/:path*", "destination": "/docs/:path*", "permanent": false }
+    { "source": "/docs/:path*", "destination": "https://turborepo-docs-ten.vercel.app/:path*", "permanent": false }
   ]
 }
